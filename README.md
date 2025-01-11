@@ -1,9 +1,8 @@
 # Hi there, I'm Luzviminda! 👋🏾 👩🏾‍💻
 
 
-<img src="https://imgur.com/FhqAoQc" alt="banner that says Luzviminda Deinla - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/LuzvimindaMDeinla/LuzvimindaMDeinla/main/Banner.png" alt="Banner">
 
- ![Header Image]([https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub](https://imgur.com/FhqAoQc)) <!-- Replace with a custom banner or keep as placeholder -->
 
 ## 🌟 About Me
 
@@ -65,13 +64,13 @@ For a detailed breakdown of my roles and accomplishments, check out my [resume](
 
 ## ✨ Fun with Visuals
 
-![Data Analysis GIF](https://via.placeholder.com/400x200.gif?text=Data+in+Action) <!-- Replace with a custom GIF or keep as placeholder -->
 
-![Power BI Dashboard](https://via.placeholder.com/400x200.png?text=Power+BI+Dashboard) <!-- Replace with an example dashboard image -->
+  ![Data Analysis GIF](https://imgur.com/RELM1hG.gif)
 
----
+![Power BI Dashboard](https://imgur.com/esZAVIf.png?text=Power+BI+Dashboard) 
 
-## 🌐 Connect With Me
+
+## Find me around the 🌐
 
 - 📧 Email: luzvimindamdeinla@gmail.com  
 - 💼 [LinkedIn](#)  
@@ -85,6 +84,9 @@ Let's collaborate and build amazing solutions together!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) <!-- Replace 'YourGitHubUsername' -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical) <!-- Replace 'YourGitHubUsername' -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzvimindaMDeinla&layout=compact&theme=radical) <!-- Replace 'YourGitHubUsername' -->
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername) <!-- Replace 'YourGitHubUsername' -->
+
+![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/LuzvimindaMDeinla.readme)
+
+
