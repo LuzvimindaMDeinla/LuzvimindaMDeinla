@@ -1,6 +1,9 @@
-# 👋 Welcome to Luzviminda Deinla's GitHub Profile
+# Hi there, I'm Luzviminda! 👋🏾 👩🏾‍💻
 
-![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub) <!-- Replace with a custom banner or keep as placeholder -->
+
+<img src="https://imgur.com/FhqAoQc" alt="banner that says Luzviminda Deinla - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+ ![Header Image]([https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub](https://imgur.com/FhqAoQc)) <!-- Replace with a custom banner or keep as placeholder -->
 
 ## 🌟 About Me
 
