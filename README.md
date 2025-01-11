@@ -73,8 +73,9 @@ For a detailed breakdown of my roles and accomplishments, check out my [resume](
 ## Find me around the 🌐
 
 - 📧 Email: luzvimindamdeinla@gmail.com  
-- 💼 [LinkedIn](#)  
-- 💻 [Portfolio/GitHub](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luzviminda-m-deinla/)  
+- 💻 [Portfolio/GitHub](https://github.com/LuzvimindaMDeinla/LuzvimindaMDeinla)
+- 📹 [Upwork](https://community.upwork.com/freelancers/~010b1db3967a3eeaa6?viewMode=1)
 
 Let's collaborate and build amazing solutions together!
 
