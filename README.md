@@ -60,7 +60,7 @@ Technological Institute of the Philippines, Manila, Philippines
 - **Master Data Analyst** – Majid Al Futtaim Ventures LLC (Feb 2017 – Aug 2020)
 - **General Accountant** – Multiple Roles (2005 – 2015)
 
-For a detailed breakdown of my roles and accomplishments, check out my [resume](https://github.com/LuzvimindaMDeinla/resume.pdf).
+For a detailed breakdown of my roles and accomplishments, check out my [resume](https://github.com/LuzvimindaMDeinla//LuzvimindaMDeinla/resume.pdf).
 
 ---
 
