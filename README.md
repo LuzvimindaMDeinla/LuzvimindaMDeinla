@@ -1,4 +1,4 @@
-# Hi there, I'm Luzviminda! 👋🏾 👩🏾‍💻
+# Hi there, I'm Luz 👋👩‍💻
 
 
 <img src="https://raw.githubusercontent.com/LuzvimindaMDeinla/LuzvimindaMDeinla/main/Banner.png" alt="Banner">
