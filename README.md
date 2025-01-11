@@ -89,7 +89,7 @@ Let's collaborate and build amazing solutions together!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzvimindaMDeinla&layout=compact&theme=radical) <!-- Replace 'YourGitHubUsername' -->
 
+![Visitor Count](https://profile-counter.glitch.me/LuzvimindaMDeinla/count.svg)
 
-![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/LuzvimindaMDeinla.readme)
 
 
