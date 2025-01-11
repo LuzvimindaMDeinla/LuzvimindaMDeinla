@@ -1,4 +1,4 @@
-# Hi there, I'm Luz 👋👩‍💻
+# Hi there, I'm Luz 👋👩🏾‍💻
 
 
 <img src="https://raw.githubusercontent.com/LuzvimindaMDeinla/LuzvimindaMDeinla/main/Banner.png" alt="Banner">
@@ -67,7 +67,7 @@ For a detailed breakdown of my roles and accomplishments, check out my [resume](
 ## ✨ Fun with Visuals
 
 
-  ![Data Analysis GIF](https://imgur.com/RELM1hG.gif)
+![Data Analysis GIF](https://imgur.com/RELM1hG.gif)
 
 ![Power BI Dashboard](https://imgur.com/esZAVIf.png?text=Power+BI+Dashboard) 
 
