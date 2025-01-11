@@ -6,16 +6,18 @@
 
 ## 🌟 About Me
 
+💼 **Seasoned Financial Accountant and Data Analyst**  
+With over a decade of experience in accounting, finance, and data analytics, I specialize in leveraging ERP systems, advanced data analysis tools, and visualization platforms to deliver actionable insights and optimize business processes.
+
+🌍 Based in Sydney, Nova Scotia | 🌐 [LinkedIn](https://www.linkedin.com/in/luzviminda-m-deinla/) | 💻 [Portfolio/GitHub](https://github.com/LuzvimindaMDeinla/LuzvimindaMDeinla) | [Upwrork Freelancer Profile](https://community.upwork.com/freelancers/~010b1db3967a3eeaa6?viewMode=1)
+
 🎓 **Post-Baccalaureate Diploma in Business Analytics**  
 Cape Breton University, Sydney, Nova Scotia (Jan 2023 – Jan 2025)
 
 🎓 **Bachelor of Science in Accounting**  
 Technological Institute of the Philippines, Manila, Philippines
 
-💼 **Seasoned Financial Accountant and Data Analyst**  
-With over a decade of experience in accounting, finance, and data analytics, I specialize in leveraging ERP systems, advanced data analysis tools, and visualization platforms to deliver actionable insights and optimize business processes.
 
-🌍 Based in Sydney, Nova Scotia | 🌐 [LinkedIn](https://www.linkedin.com/in/luzviminda-m-deinla/) | 💻 [Portfolio/GitHub](https://github.com/LuzvimindaMDeinla/LuzvimindaMDeinla) | [Upwrork Freelancer Profile](https://community.upwork.com/freelancers/~010b1db3967a3eeaa6?viewMode=1)
 
 ---
 
